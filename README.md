@@ -22,7 +22,7 @@ This project is build using tkinter, random modules, and the basic concept of py
 
 In this python project, players have to choose any one from rock, paper, and scissors. Then click on the play button will show the result of the game.
 
-##Project Prerequisites
+**Project Prerequisites**
 
 To implement this python rock paper scissors project we will use the basic concept of python with tkinter and random module.
 
@@ -30,11 +30,11 @@ Tkinter is a standard GUI library which is one of the easiest ways to build a GU
 
 random module use to generate random numbers
 
-##Project File Structure and objects explanation used in project
+**Project File Structure and objects explanation used in project**
 
-###Import required libraries
+**Import required libraries**
 
-###Initialize window
+**Initialize window**
 
 Tk() use to initialized Tkinter to create window
 
@@ -56,13 +56,13 @@ font in which form the text is written
 
 pack used to the organized widget in form of block
 
-###Code for user choice
+**Code for user choice**
 
 user_take is a string type variable that stores the choice that the user enters.
 
 Entry() widget used when we want to create an input text field
 
-###Code for computer choice
+**Code for computer choice**
 
 random.randint() function will randomly take any number from the given number.
 
@@ -75,7 +75,7 @@ If the computer choose 2 then the paper will set to comp_pick variable
 If the computer choose 3 then scissors will set to comp_pick variable
 
 
-###Define functions
+**Define functions**
 
 user_take is a string type variable that stores the choice that the user enters.
 
@@ -86,7 +86,7 @@ In this rock paper scissors game,  a player who chooses rock will win by another
 root.destroy() will quit the rock paper scissors program by stopping the mainloop().
 
 
-###Define buttons
+**Define buttons**
 
 Button() widget used when we want to display a button.
 
