@@ -1,6 +1,6 @@
 # fun-games-with-python3 
 
-#Rock-Paper-Scissors Game Python Project👤🐱‍💻
+**Rock-Paper-Scissors Game Python Project👤🐱‍💻**
 
 ![alt text]()
 
