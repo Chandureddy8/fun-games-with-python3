@@ -30,6 +30,9 @@ Tkinter is a standard GUI library which is one of the easiest ways to build a GU
 
 random module use to generate random numbers
 
+
+![paper-sissor](https://miro.medium.com/max/1200/1*8du96SQUQ0NlWmWvVu20Zw.png)
+
 **Project File Structure and objects explanation used in project**
 
 **Import required libraries**
