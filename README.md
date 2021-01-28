@@ -1,3 +1,3 @@
 # fun-games-with-python3 
 
-** Rock-paper-scissor **
+**Rock-paper-scissor**
