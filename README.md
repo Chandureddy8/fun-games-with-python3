@@ -2,7 +2,7 @@
 
 # Rock-Paper-Scissors Game Python Project👤🐱‍💻
 
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.resolve.edu.au%2Fsites%2Fdefault%2Ffiles%2FRock%2520Paper%2520Scissors.png&imgrefurl=https%3A%2F%2Fwww.resolve.edu.au%2Fclassroom-topics-focus-rock-paper-scissors&tbnid=eTb3AY2IfF5-4M&vet=12ahUKEwiOsbu2h77uAhWLgmMGHfeUCr8QMygDegUIARDdAQ..i&docid=meoEqpPLaYFmCM&w=769&h=556&q=rock%20paper%20scissors%20game&ved=2ahUKEwiOsbu2h77uAhWLgmMGHfeUCr8QMygDegUIARDdAQ)
+
 
 Rock paper scissors game is also known as stone paper scissors. It is a hand game that is usually played between 2 people, each player can randomly form any one of three from their hand.
 
