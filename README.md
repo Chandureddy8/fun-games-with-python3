@@ -2,7 +2,7 @@
 
 # Rock-Paper-Scissors Game Python Project👤🐱‍💻
 
-
+![Alt Text](https://64.media.tumblr.com/a8209c9835996dc3736a0a906c8debcc/tumblr_inline_nsu9jm88AV1sdet6d_500.gifv)
 
 Rock paper scissors game is also known as stone paper scissors. It is a hand game that is usually played between 2 people, each player can randomly form any one of three from their hand.
 
@@ -29,9 +29,6 @@ To implement this python rock paper scissors project we will use the basic conce
 Tkinter is a standard GUI library which is one of the easiest ways to build a GUI application.
 
 random module use to generate random numbers
-
-
-![paper-sissor](https://miro.medium.com/max/1200/1*8du96SQUQ0NlWmWvVu20Zw.png)
 
 **Project File Structure and objects explanation used in project**
 
